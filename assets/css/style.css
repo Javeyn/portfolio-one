@@ -1,0 +1,168 @@
+body {
+    padding: 0;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 26px;
+    line-height: 150%;
+    color: #333;
+    background-image: url(../images/background.jpg);
+}
+
+header {
+    margin: 50px;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 32px;
+    color: black;
+    background-color:white;
+    height: 100px;
+    padding: 10px;
+    border: 3px solid black;
+}
+
+h1 {
+    margin-left: 50px;
+    border: 3px solid black;
+    height: 150px;
+    width: 350px;
+    background: grey;
+}
+
+#MainBio {
+    /* margin-top: 50px;  */
+    float: left;
+    background: blueviolet;
+    border: 3px solid black;
+    height: 50%;
+    width: 50%;
+}
+
+#SubBio {
+    float: right;
+    /* margin: 50px; */
+    background: beige;
+    border: 3px solid black;
+    height: 400px;
+    width: 400px;
+    color: indigo;
+}
+
+#SubBio2 {
+    float: left;
+    /* margin: 50px; */
+    background: beige;
+    border: 3px solid black;
+    height: 400px;
+    width: 400px;
+    color: indigo;
+}
+
+#Form {
+    height: 50%;
+    width: 50%;
+    float: left;
+    /* border: 3px solid black; */
+}
+
+#Fallout {
+    float: left;
+}
+
+.container {
+    color: white;
+}
+
+.container2 {
+    position: static;
+}
+
+#Portfolio {
+    float: left;
+    /* margin: 50px; */
+    flex-grow: 3;
+    background: beige;
+    border: 3px solid black;
+    height: 400px;
+    width: 400px;
+    color: indigo;
+    /* padding-left:20%;
+    padding-right:20%; */
+}
+
+#Portfolio2 {
+    float: left;
+    /* margin: 50px; */
+    flex-wrap: 30;
+    background: brown;
+    border: 3px solid black;
+    height: 400px;
+    width: 800px;
+    color: indigo;
+    /* padding: 5%; */
+    /* padding-left:20%; */
+    /* padding-right:20%;  */
+}
+
+/* #mypic { */
+
+/* float: left; */
+
+/* } */
+
+.text {
+    clear: both;
+    float: left;
+}
+.biolink:hover{
+    color: green;
+}
+.biolink:active {
+    color: black;
+}
+.biolink:focus {
+    color: red;
+    font-size: 40px;
+}
+.biolink:default {
+    color: black;
+
+}
+.biolink:visited {
+    color: darkslategrey;
+}
+.contactlink:hover{
+    color: green;
+}
+.contactlink:active {
+    color: black;
+}
+.contactlink:focus {
+    color: red;
+    font-size: 40px;
+}
+.contactlink:default {
+    color: black;
+}
+.contactlink:visited {
+    color: darkslategray;
+}
+.portfoliolink:hover{
+    color: green;
+}
+.portfoliolink:active {
+    color: black;
+}
+.portfoliolink:focus {
+    color: red;
+    font-size: 40px;
+}
+.portfoliolink:default {
+    color: black;
+}
+.portfoliolink:visited {
+    color: darkslategray;
+}
+
+.links {
+    float: right;
+}
