@@ -3,6 +3,6 @@ This is my first iteration of my portfolio website. while i used all the guideli
 
 The page itself isnt super flashy, but I am proud that i went with no real experience in the field to a working website in 4 days. 
 
-IF there are any questions, please contact me via smoke signals.
+# IF there are any questions, please contact me via smoke signals.
 
 Just kidding. Jack.sorensen11@gmail.com
